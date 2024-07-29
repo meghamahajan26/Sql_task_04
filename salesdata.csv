@@ -1,0 +1,1000 @@
+order_id,order_date,customer_name,state,product,sales,quantity,age
+2,04-01-2014,Phillina Ober,Illinois,Labels,12,3,67
+3,04-01-2014,Mick Brown,Illinois,Storage,273,3,90
+4,04-01-2014,Lycoris Saunders,Illinois,Binders,4,2,67
+5,05-01-2014,Jack O'Briant,Pennsylvania,Art,20,3,66
+6,06-01-2014,Maria Etezadi,California,Paper,19,3,66
+7,06-01-2014,Vivek Sundaresam,Georgia,Art,13,3,51
+8,06-01-2014,Melanie Seite,Kentucky,Chairs,2574,9,62
+9,06-01-2014,Anthony Jacobs,Kentucky,Binders,610,2,81
+10,06-01-2014,Seth Vernon,Kentucky,Art,5,2,66
+11,06-01-2014,Chris Selesnick,Kentucky,Phones,392,2,75
+12,06-01-2014,Natalie DeCherney,Kentucky,Phones,756,4,61
+13,06-01-2014,Brian Dahlen,Kentucky,Fasteners,31,4,91
+14,06-01-2014,Michael Moore,Kentucky,Paper,7,1,92
+15,07-01-2014,Brendan Sweed,Texas,Furnishings,77,3,97
+16,07-01-2014,Erica Hackney,Texas,Binders,10,7,36
+17,09-01-2014,Delfina Latchford,Texas,Art,9,2,60
+18,09-01-2014,David Wiener,Texas,Accessories,31,3,35
+19,10-01-2014,Toby Swindell,Virginia,Labels,3,1,77
+20,10-01-2014,Hunter Lopez,Virginia,Furnishings,52,1,23
+21,11-01-2014,Mark Van Huff,Delaware,Furnishings,10,2,86
+22,13-01-2014,Xylona Preis,Louisiana,Envelopes,11,2,70
+23,13-01-2014,Muhammed MacIntyre,Louisiana,Envelopes,51,3,73
+24,13-01-2014,Tom Boeckenhauer,Louisiana,Accessories,647,6,26
+25,13-01-2014,Ionia McGrath,Louisiana,Binders,6,3,29
+26,13-01-2014,Speros Goranitis,Louisiana,Storage,573,6,81
+27,13-01-2014,Shirley Daniels,South Carolina,Chairs,546,6,76
+28,13-01-2014,Carol Adams,California,Storage,1326,5,54
+29,13-01-2014,Ed Jacobs,California,Bookcases,334,3,51
+30,13-01-2014,Jasper Cacioppo,California,Art,20,5,55
+31,13-01-2014,Mike Vittorini,Ohio,Paper,37,7,78
+32,13-01-2014,Liz Carlisle,Ohio,Binders,3,2,72
+33,14-01-2014,Bradley Drucker,Pennsylvania,Bookcases,62,4,74
+34,15-01-2014,Cynthia Delaney,Georgia,Accessories,150,5,44
+35,16-01-2014,Eric Barreto,Pennsylvania,Furnishings,127,6,30
+36,16-01-2014,Deborah Brumfield,Pennsylvania,Phones,124,3,31
+37,16-01-2014,Mark Haberlin,Pennsylvania,Binders,19,2,77
+38,16-01-2014,Neil Ducich,Pennsylvania,Labels,30,3,73
+39,18-01-2014,Cyma Kinney,Oregon,Appliances,65,4,89
+40,19-01-2014,Nathan Mautz,Arizona,Binders,32,10,23
+41,19-01-2014,Natalie Fritzler,Arizona,Paper,56,4,58
+42,19-01-2014,Guy Armstrong,Arizona,Envelopes,109,5,74
+43,19-01-2014,Sanjit Chand,Arizona,Bookcases,181,5,87
+44,20-01-2014,Shui Tom,Arkansas,Phones,700,7,67
+45,20-01-2014,Marina Lichtenstein,Arkansas,Art,23,7,28
+46,20-01-2014,Barry Französisch,Arkansas,Furnishings,39,4,45
+47,20-01-2014,Michael Nguyen,Arkansas,Art,7,3,42
+48,20-01-2014,Troy Blackwell,Arkansas,Envelopes,23,3,43
+49,20-01-2014,Aaron Bergman,Arkansas,Chairs,1068,3,23
+50,20-01-2014,Linda Cazamias,California,Paper,19,2,59
+51,20-01-2014,Steven Roelle,California,Furnishings,19,2,39
+52,20-01-2014,Tamara Manning,Michigan,Storage,14,1,93
+53,20-01-2014,Sue Ann Reed,Michigan,Furnishings,273,3,86
+54,20-01-2014,Michael Grace,Michigan,Binders,19,5,82
+55,20-01-2014,Jennifer Halladay,Michigan,Appliances,248,4,98
+56,20-01-2014,Joy Smith,Michigan,Storage,67,2,70
+57,20-01-2014,Dave Brooks,Michigan,Art,44,3,41
+58,20-01-2014,Hallie Redmond,Michigan,Furnishings,15,3,39
+59,20-01-2014,Vicky Freymann,Michigan,Binders,30,5,26
+60,20-01-2014,Shahid Collister,Tennessee,Binders,67,1,54
+61,21-01-2014,Giulietta Weimer,Florida,Furnishings,25,3,46
+62,23-01-2014,Kristina Nunn,Nevada,Paper,40,6,29
+63,23-01-2014,Nicole Hansen,Indiana,Fasteners,6,3,60
+64,26-01-2014,Ashley Jarboe,Virginia,Furnishings,63,3,73
+65,26-01-2014,Anne Pryor,Virginia,Storage,490,8,62
+66,26-01-2014,Jill Stevenson,Virginia,Paper,19,3,81
+67,26-01-2014,Sam Craven,Virginia,Paper,17,2,55
+68,26-01-2014,Eva Jacobs,Virginia,Phones,155,13,88
+69,26-01-2014,Clay Ludtke,Virginia,Furnishings,12,3,28
+70,26-01-2014,Aimee Bixby,Virginia,Phones,188,2,49
+71,26-01-2014,Nora Pelletier,South Dakota,Binders,11,2,26
+72,26-01-2014,Craig Molinari,South Dakota,Bookcases,142,2,44
+73,27-01-2014,Scott Williamson,California,Storage,57,1,59
+74,27-01-2014,Kean Thornton,California,Tables,333,3,70
+75,27-01-2014,Chloris Kastensmidt,California,Art,36,4,53
+76,28-01-2014,Kelly Andreada,New York,Binders,4,1,98
+77,30-01-2014,Filia McAdams,Michigan,Paper,11,2,69
+78,30-01-2014,Richard Bierner,Michigan,Storage,230,2,92
+79,31-01-2014,Dean Katz,California,Bookcases,291,2,58
+80,01-02-2014,Christine Kargatis,Wisconsin,Accessories,469,6,99
+81,02-02-2014,Jason Fortune-,California,Fasteners,12,5,96
+82,02-02-2014,Rick Bensley,Florida,Binders,18,2,48
+83,02-02-2014,Neil Französisch,Florida,Phones,181,5,92
+84,03-02-2014,Alan Shonely,Washington,Binders,84,2,53
+85,03-02-2014,Bradley Nguyen,Washington,Binders,13,3,22
+86,04-02-2014,Christine Phan,California,Binders,83,3,26
+87,04-02-2014,Annie Zypern,California,Paper,34,4,82
+88,04-02-2014,Quincy Jones,California,Binders,17,2,73
+89,06-02-2014,Sean Miller,Virginia,Labels,15,4,36
+90,06-02-2014,Eileen Kiefer,Virginia,Phones,162,1,80
+91,06-02-2014,Sample Company A,Virginia,Phones,145,5,91
+92,06-02-2014,Matt Connell,Illinois,Binders,9,2,53
+93,07-02-2014,Cassandra Brandow,New Jersey,Accessories,115,7,81
+94,07-02-2014,Thomas Seio,New York,Storage,65,4,36
+95,08-02-2014,Kristen Hastings,Nevada,Furnishings,15,2,35
+96,11-02-2014,Gary McGarr,Virginia,Accessories,234,3,27
+97,11-02-2014,Craig Carroll,Virginia,Tables,1256,6,74
+98,11-02-2014,Beth Fritzler,Virginia,Binders,17,2,49
+99,11-02-2014,Vivian Mathis,Missouri,Chairs,61,1,74
+100,11-02-2014,Patrick O'Donnell,Missouri,Labels,15,3,45
+101,11-02-2014,Bruce Geld,Missouri,Binders,10,2,34
+102,11-02-2014,Carlos Daly,Missouri,Furnishings,333,3,26
+103,11-02-2014,Maurice Satty,Missouri,Binders,52,3,31
+104,11-02-2014,Christina Anderson,Missouri,Storage,65,2,60
+105,12-02-2014,Jonathan Doherty,California,Chairs,130,2,80
+106,14-02-2014,Damala Kotsonis,Texas,Paper,16,3,78
+107,14-02-2014,Cindy Stewart,Washington,Accessories,240,3,42
+108,14-02-2014,Christina VanderZanden,Washington,Appliances,82,2,86
+109,14-02-2014,Daniel Raglin,Washington,Supplies,239,2,41
+110,15-02-2014,Mike Pelletier,Washington,Binders,21,5,37
+111,16-02-2014,Mike Gockenbach,Texas,Binders,1,3,68
+112,16-02-2014,Kunst Miller,Texas,Appliances,8,2,59
+113,17-02-2014,Dorris liebe,Illinois,Art,54,14,31
+114,18-02-2014,Susan Gilcrest,Texas,Furnishings,25,5,45
+115,18-02-2014,Mark Packer,Texas,Storage,13,2,38
+116,20-02-2014,Nat Carroll,Indiana,Accessories,62,3,44
+117,20-02-2014,Alex Avila,Indiana,Furnishings,20,4,84
+118,20-02-2014,Jas O'Carroll,California,Paper,13,2,49
+119,21-02-2014,Dorothy Dickinson,Illinois,Binders,9,5,94
+120,22-02-2014,Karen Bern,California,Paper,19,3,72
+121,23-02-2014,Trudy Glocke,Texas,Labels,7,3,62
+122,23-02-2014,Katharine Harms,Texas,Binders,4,3,63
+123,24-02-2014,Rob Dowd,Oregon,Paper,33,4,50
+124,24-02-2014,Anna Häberlin,Oregon,Paper,23,3,62
+125,27-02-2014,Katrina Edelman,Ohio,Art,19,4,84
+126,01-03-2014,Paul Knutson,Washington,Chairs,458,2,69
+127,01-03-2014,Mary Zewe,New York,Phones,6,3,53
+128,01-03-2014,Ken Black,Illinois,Chairs,634,6,93
+129,01-03-2014,Tracy Hopkins,Illinois,Paper,17,3,82
+130,01-03-2014,Greg Maxwell,Texas,Fasteners,19,5,67
+131,01-03-2014,John Grady,Texas,Chairs,362,6,22
+132,01-03-2014,Ruben Dartt,Texas,Furnishings,64,6,94
+133,01-03-2014,Roy Phan,Texas,Storage,130,3,99
+134,01-03-2014,Guy Phonely,Texas,Storage,137,3,52
+135,01-03-2014,Scott Cohen,Texas,Tables,377,3,42
+136,02-03-2014,Andy Yotov,New York,Envelopes,11,2,96
+137,02-03-2014,Frank Hawley,New York,Paper,36,5,36
+138,02-03-2014,Pauline Johnson,Pennsylvania,Paper,3,1,41
+139,02-03-2014,Roland Schwarz,Pennsylvania,Accessories,151,3,98
+140,03-03-2014,Valerie Mitchum,North Carolina,Art,19,4,25
+141,03-03-2014,Jim Mitchum,New York,Phones,10,1,87
+142,03-03-2014,Ruben Ausman,New York,Binders,126,3,53
+143,03-03-2014,Pauline Chand,New York,Binders,25,5,59
+144,03-03-2014,John Stevenson,Ohio,Labels,15,3,56
+145,03-03-2014,Jay Kimmel,Ohio,Bookcases,302,5,24
+146,03-03-2014,Sanjit Engle,Ohio,Storage,45,8,39
+147,03-03-2014,Gary Mitchum,Texas,Appliances,177,3,73
+148,03-03-2014,Michelle Moray,California,Tables,626,3,87
+149,04-03-2014,Kean Nguyen,South Carolina,Storage,355,5,40
+150,04-03-2014,Stewart Visinsky,Florida,Art,16,3,82
+151,05-03-2014,Edward Hooks,New York,Art,60,3,95
+152,05-03-2014,Ben Ferrer,New York,Accessories,480,3,61
+153,05-03-2014,Paul Stevenson,New York,Supplies,19,2,61
+154,05-03-2014,Stephanie Phelps,New York,Binders,50,6,59
+155,05-03-2014,John Lee,New York,Paper,98,2,42
+156,07-03-2014,Nicole Fjeld,Washington,Chairs,49,1,42
+157,07-03-2014,Allen Goldenen,Washington,Art,18,3,94
+158,07-03-2014,Benjamin Patterson,Washington,Storage,243,3,32
+159,07-03-2014,Allen Armold,Washington,Binders,108,2,89
+160,07-03-2014,Dorothy Badders,Washington,Art,21,5,78
+161,07-03-2014,Aaron Hawkins,Washington,Storage,205,5,91
+162,07-03-2014,Theresa Swint,Washington,Chairs,437,6,65
+163,07-03-2014,Laurel Beltran,Washington,Chairs,482,2,53
+164,10-03-2014,Dianna Arnett,Michigan,Paper,22,2,57
+165,10-03-2014,Lena Creighton,Colorado,Storage,636,3,65
+166,10-03-2014,Beth Thompson,Colorado,Art,83,4,38
+167,11-03-2014,Aleksandra Gannaway,Ohio,Furnishings,8,5,35
+168,11-03-2014,Marc Harrigan,Ohio,Fasteners,10,6,80
+169,11-03-2014,Muhammed Yedwab,New York,Paper,109,14,33
+170,11-03-2014,George Bell,Kentucky,Appliances,147,3,43
+171,11-03-2014,Arianne Irving,Kentucky,Accessories,33,2,35
+172,11-03-2014,David Smith,Kentucky,Phones,588,3,71
+173,11-03-2014,Lauren Leatherbury,Kentucky,Paper,15,3,80
+174,11-03-2014,Harry Greene,California,Art,8,3,50
+175,14-03-2014,Laura Armstrong,California,Paper,11,2,34
+176,14-03-2014,Katherine Hughes,California,Art,3,1,38
+177,14-03-2014,Justin MacKendrick,Virginia,Chairs,1140,4,97
+178,14-03-2014,Andrew Roberts,Utah,Binders,33,4,28
+179,14-03-2014,Cari Schnelling,Utah,Storage,81,1,51
+180,14-03-2014,Joni Sundaresam,Utah,Accessories,83,12,68
+181,14-03-2014,Nathan Cano,Utah,Storage,21,2,76
+182,14-03-2014,Paul MacIntyre,Utah,Binders,62,2,85
+183,14-03-2014,Andrew Allen,Illinois,Machines,575,2,60
+184,14-03-2014,Bill Shonely,Illinois,Paper,8,2,80
+185,14-03-2014,Peter Fuller,Florida,Paper,91,6,20
+186,15-03-2014,Emily Burns,Florida,Storage,143,1,30
+187,15-03-2014,Giulietta Dortch,Florida,Furnishings,46,3,78
+188,15-03-2014,Harold Pawlan,Florida,Binders,7,3,45
+189,15-03-2014,Steve Nguyen,Florida,Binders,43,4,54
+190,15-03-2014,Carol Triggs,Florida,Paper,132,3,88
+191,16-03-2014,Patrick Gardner,North Carolina,Phones,472,2,84
+192,17-03-2014,Sean Braxton,Minnesota,Appliances,94,2,88
+193,17-03-2014,Art Foster,Minnesota,Paper,47,7,56
+194,17-03-2014,Greg Matthias,Minnesota,Art,20,6,61
+195,17-03-2014,Paul Gonzalez,Minnesota,Binders,53,10,95
+196,17-03-2014,Raymond Messe,Minnesota,Binders,36,6,83
+197,17-03-2014,Brooke Gillingham,New York,Tables,1580,7,31
+198,17-03-2014,Victoria Wilson,New York,Tables,1072,4,60
+199,17-03-2014,Harold Dahlen,New York,Tables,614,3,97
+200,17-03-2014,Alejandro Grove,New York,Paper,35,7,53
+201,17-03-2014,Erica Hernandez,New York,Paper,155,4,92
+202,17-03-2014,Naresj Patel,Texas,Art,4,2,37
+203,17-03-2014,Anthony Johnson,Texas,Paper,5,1,59
+204,17-03-2014,Pauline Webber,Texas,Paper,16,3,77
+205,17-03-2014,Cindy Chapman,Mississippi,Binders,11,3,68
+206,17-03-2014,Pete Armstrong,Mississippi,Binders,30,2,71
+207,17-03-2014,Bruce Stewart,Mississippi,Paper,13,2,99
+208,17-03-2014,Ted Trevino,Mississippi,Paper,16,4,85
+209,17-03-2014,George Ashbrook,Mississippi,Appliances,33,3,98
+210,17-03-2014,John Huston,Pennsylvania,Paper,127,6,37
+211,18-03-2014,Tamara Dahlen,Florida,Machines,821,4,47
+212,18-03-2014,Randy Ferguson,Florida,Machines,22638,6,65
+213,18-03-2014,Matt Collister,Florida,Paper,21,4,62
+214,18-03-2014,Mitch Willingham,Florida,Art,8,3,84
+215,18-03-2014,Bradley Talbott,Florida,Furnishings,31,2,57
+216,18-03-2014,Frank Gastineau,Florida,Fasteners,19,3,41
+217,18-03-2014,Evan Henry,Florida,Furnishings,122,3,54
+218,18-03-2014,Greg Tran,California,Bookcases,1198,10,64
+219,18-03-2014,Resi Pölking,California,Furnishings,111,2,90
+220,18-03-2014,Janet Lee,California,Machines,1280,4,85
+221,18-03-2014,Barry Weirich,California,Storage,1856,7,23
+222,19-03-2014,Herbert Flentye,Florida,Phones,324,3,24
+223,19-03-2014,Dean percer,Florida,Labels,12,4,55
+224,19-03-2014,Maya Herman,Florida,Storage,26,3,33
+225,19-03-2014,Laurel Elliston,Florida,Binders,34,5,26
+226,19-03-2014,Patrick Jones,Florida,Furnishings,5,3,42
+227,19-03-2014,Magdelene Morse,Florida,Furnishings,20,3,55
+228,19-03-2014,Ellis Ballard,Florida,Accessories,170,2,99
+229,21-03-2014,Shahid Shariari,Ohio,Art,7,2,43
+230,21-03-2014,James Galang,Ohio,Art,6,3,89
+231,21-03-2014,Laurel Workman,North Carolina,Storage,16,1,93
+232,21-03-2014,Mark Cousins,Virginia,Phones,3500,7,27
+233,21-03-2014,Jim Karlsson,Virginia,Labels,14,5,41
+234,21-03-2014,Dianna Wilson,Virginia,Paper,123,3,22
+235,21-03-2014,Corey Roper,Virginia,Art,9,4,64
+236,21-03-2014,Liz Thompson,Virginia,Binders,123,3,56
+237,21-03-2014,Steven Cartwright,Tennessee,Labels,59,5,67
+238,21-03-2014,Ross Baird,Tennessee,Furnishings,33,3,69
+239,21-03-2014,Richard Eichhorn,Tennessee,Chairs,218,3,48
+240,22-03-2014,Bobby Trafton,North Carolina,Binders,8,4,81
+241,22-03-2014,Bryan Mills,North Carolina,Binders,51,5,34
+242,22-03-2014,Grant Thornton,Arizona,Paper,74,3,88
+243,22-03-2014,Sarah Bern,Arizona,Chairs,314,3,86
+244,22-03-2014,Valerie Takahito,Indiana,Art,16,2,75
+245,23-03-2014,Bart Pistole,California,Storage,330,2,82
+246,23-03-2014,Nick Radford,California,Phones,605,6,94
+247,23-03-2014,Carlos Soltero,Florida,Labels,10,3,83
+248,24-03-2014,Rick Duston,New York,Paper,25,5,74
+249,24-03-2014,Brosina Hoffman,California,Furnishings,40,2,43
+250,25-03-2014,Carl Weiss,New York,Chairs,367,7,93
+251,25-03-2014,Chuck Magee,California,Art,7,2,37
+252,25-03-2014,Frank Olsen,California,Art,15,2,81
+253,25-03-2014,Heather Kirkland,California,Accessories,45,4,75
+254,25-03-2014,Sharelle Roach,California,Art,25,6,53
+255,26-03-2014,Kelly Lampkin,California,Accessories,66,3,94
+256,26-03-2014,Pamela Stobb,California,Art,3,2,68
+257,26-03-2014,Sonia Cooley,California,Binders,28,4,37
+258,26-03-2014,Duane Benoit,California,Phones,29,2,91
+259,26-03-2014,Gary Hwang,California,Labels,19,5,41
+260,28-03-2014,Jennifer Ferguson,Iowa,Envelopes,6,3,55
+261,28-03-2014,Mick Crebagga,Iowa,Tables,1185,4,24
+262,28-03-2014,Corey-Lock,New Mexico,Phones,302,3,66
+263,28-03-2014,Natalie Webber,Ohio,Tables,331,1,57
+264,29-03-2014,Toby Braunhardt,Texas,Tables,891,3,67
+265,30-03-2014,Joel Eaton,New York,Art,50,5,77
+266,30-03-2014,Dianna Vittorini,Washington,Storage,16,3,66
+267,30-03-2014,Anna Andreadi,Washington,Labels,44,3,91
+268,30-03-2014,Brian Stugart,New York,Art,11,5,80
+269,30-03-2014,Denise Leinenbach,California,Bookcases,206,2,38
+270,30-03-2014,Liz Pelletier,Texas,Envelopes,336,5,99
+271,30-03-2014,Noel Staavos,Texas,Phones,252,7,86
+272,30-03-2014,Grace Kelly,Texas,Chairs,127,7,29
+273,30-03-2014,Liz MacKendrick,Minnesota,Storage,129,2,44
+274,31-03-2014,Cynthia Arntzen,California,Binders,674,2,39
+275,31-03-2014,Rob Williams,California,Appliances,53,2,83
+276,31-03-2014,Dan Lawera,Pennsylvania,Binders,1,1,43
+277,31-03-2014,Helen Abelman,Illinois,Binders,8,7,66
+278,31-03-2014,Russell Applegate,Illinois,Accessories,80,2,97
+279,31-03-2014,Anthony Rawles,Florida,Binders,2,1,67
+280,31-03-2014,Michael Stewart,Florida,Chairs,1125,7,74
+281,31-03-2014,Brian DeCherney,Florida,Binders,13,5,24
+282,31-03-2014,Eric Hoffmann,Florida,Art,4,2,56
+283,01-04-2014,Maxwell Schwartz,California,Labels,30,2,87
+284,01-04-2014,Michael Chen,California,Binders,17,4,71
+285,01-04-2014,Dan Campbell,Massachusetts,Storage,67,4,31
+286,01-04-2014,Dennis Pardue,Massachusetts,Binders,6,2,27
+287,02-04-2014,Don Miller,Georgia,Paper,16,3,78
+288,02-04-2014,Emily Phan,Georgia,Phones,1050,7,64
+289,02-04-2014,Becky Castell,Georgia,Appliances,155,5,89
+290,02-04-2014,Michelle Huthwaite,Texas,Paper,27,5,71
+291,02-04-2014,Ed Braxton,Texas,Paper,33,7,45
+292,02-04-2014,Brian Moss,Virginia,Furnishings,178,2,58
+293,03-04-2014,Gary Hansen,California,Envelopes,11,2,25
+294,03-04-2014,Darrin Sayre,California,Accessories,62,3,59
+295,03-04-2014,Mark Hamilton,California,Accessories,160,2,39
+296,04-04-2014,Jamie Kunitz,California,Labels,19,6,67
+297,04-04-2014,Alyssa Crouse,Michigan,Furnishings,5,1,82
+298,04-04-2014,Max Engle,Michigan,Art,79,4,25
+299,04-04-2014,Paul Van Hugh,California,Binders,7,2,70
+300,04-04-2014,Arthur Wiediger,Louisiana,Storage,233,5,31
+301,04-04-2014,Philip Brown,Louisiana,Accessories,100,2,54
+302,04-04-2014,Shirley Schmidt,Louisiana,Paper,19,3,60
+303,04-04-2014,Barbara Fisher,Louisiana,Paper,13,2,35
+304,05-04-2014,Adrian Hane,New York,Paper,55,1,29
+305,05-04-2014,Jack Lebron,Virginia,Art,23,7,30
+306,05-04-2014,Christine Abelman,Virginia,Phones,29,1,88
+307,05-04-2014,Eugene Moren,Virginia,Paper,13,2,68
+308,05-04-2014,Katherine Murray,Virginia,Art,23,7,25
+309,05-04-2014,Scot Wooten,Virginia,Supplies,4164,5,48
+310,05-04-2014,Charles Crestani,Illinois,Storage,50,4,94
+311,05-04-2014,Roger Demir,Illinois,Storage,52,4,85
+312,05-04-2014,Michelle Ellison,Michigan,Art,27,2,69
+313,05-04-2014,Harry Marie,Michigan,Binders,40,5,30
+314,05-04-2014,Erin Mull,Michigan,Art,14,3,45
+315,05-04-2014,Alejandro Ballentine,Michigan,Storage,690,6,38
+316,05-04-2014,John Lucas,Kentucky,Binders,115,7,61
+317,06-04-2014,Arthur Gainer,Pennsylvania,Binders,45,6,44
+318,06-04-2014,Nick Crebassa,Pennsylvania,Supplies,10,1,99
+319,06-04-2014,Ken Lonsdale,Pennsylvania,Tables,155,3,77
+320,06-04-2014,Carl Ludwig,Pennsylvania,Accessories,117,2,73
+321,06-04-2014,Sheri Gordon,Washington,Tables,654,3,52
+322,06-04-2014,Luke Foster,Washington,Accessories,34,2,67
+323,06-04-2014,Aaron Smayling,California,Furnishings,92,2,96
+324,06-04-2014,Barry Blumstein,California,Furnishings,33,7,79
+325,06-04-2014,Tom Stivers,California,Paper,19,3,59
+326,06-04-2014,Ivan Liston,California,Paper,55,1,83
+327,06-04-2014,Ann Steele,California,Art,71,3,87
+328,06-04-2014,Nick Zandusky,California,Binders,66,2,22
+329,06-04-2014,Berenike Kampe,California,Accessories,300,3,31
+330,07-04-2014,Valerie Dominguez,Alabama,Furnishings,9,2,68
+331,07-04-2014,Chad Sievert,South Carolina,Phones,630,5,60
+332,07-04-2014,Sonia Sunley,South Carolina,Paper,123,3,31
+333,07-04-2014,Ricardo Sperren,Georgia,Paper,58,9,55
+334,07-04-2014,Gary Zandusky,Georgia,Phones,201,3,30
+335,08-04-2014,Roland Fjeld,Arizona,Fasteners,2,2,78
+336,08-04-2014,Trudy Brown,Arizona,Paper,19,3,43
+337,08-04-2014,Lena Radford,Alabama,Tables,1216,8,27
+338,08-04-2014,Maria Bertelson,Arizona,Fasteners,50,8,66
+339,08-04-2014,Matt Abelman,California,Tables,100,1,67
+340,08-04-2014,Vivek Gonzalez,California,Accessories,400,4,40
+341,08-04-2014,Andy Gerbode,Ohio,Tables,172,1,79
+342,11-04-2014,Emily Ducich,Florida,Fasteners,7,3,44
+343,11-04-2014,Matthew Grinstein,Florida,Accessories,384,3,51
+344,11-04-2014,Joseph Holt,Florida,Paper,10,2,69
+345,11-04-2014,Gene McClure,Florida,Accessories,336,7,31
+346,11-04-2014,Charles Sheldon,Idaho,Binders,10,1,40
+347,11-04-2014,Ben Wallace,Texas,Phones,758,6,20
+348,11-04-2014,Duane Huffman,Montana,Storage,87,7,44
+349,11-04-2014,Keith Herrera,Montana,Phones,106,2,74
+350,11-04-2014,Christine Sundaresam,Montana,Accessories,217,6,58
+351,12-04-2014,Troy Staebel,California,Phones,1075,14,54
+352,12-04-2014,Don Jones,California,Phones,438,4,60
+353,12-04-2014,Lena Hernandez,California,Binders,18,7,86
+354,12-04-2014,Craig Reiter,California,Bookcases,309,3,86
+355,12-04-2014,Deanra Eno,Indiana,Paper,32,5,80
+356,12-04-2014,Jeremy Pistek,California,Art,40,2,41
+357,13-04-2014,Rick Hansen,Pennsylvania,Art,18,4,51
+358,13-04-2014,Robert Barroso,Pennsylvania,Binders,510,10,59
+359,13-04-2014,Arthur Prichep,Pennsylvania,Fasteners,31,13,37
+360,13-04-2014,Jennifer Patt,Pennsylvania,Phones,72,12,34
+361,13-04-2014,Dorothy Wardle,Maryland,Labels,8,3,48
+362,15-04-2014,Ryan Crowe,California,Appliances,107,2,25
+363,15-04-2014,Janet Molinari,California,Furnishings,188,4,37
+364,16-04-2014,Mitch Webber,North Carolina,Art,39,6,97
+365,18-04-2014,Joe Elijah,California,Machines,288,4,86
+366,18-04-2014,Frank Merwin,California,Art,13,4,73
+367,18-04-2014,Karl Braun,California,Art,11,5,26
+368,18-04-2014,Paul Prost,California,Fasteners,12,2,28
+369,18-04-2014,Zuschuss Donatelli,Texas,Art,3,2,83
+370,18-04-2014,Corey Catlett,Texas,Chairs,317,3,77
+371,18-04-2014,Hilary Holden,Texas,Envelopes,149,3,57
+372,18-04-2014,Ryan Akin,Texas,Accessories,228,3,92
+373,19-04-2014,Annie Thurman,California,Furnishings,76,3,98
+374,19-04-2014,Shirley Jackson,Virginia,Binders,58,3,38
+375,19-04-2014,Larry Tron,Virginia,Paper,71,11,92
+376,20-04-2014,Katherine Ducich,Texas,Tables,744,5,67
+377,20-04-2014,Mathew Reese,Texas,Storage,45,5,68
+378,20-04-2014,Nora Preis,Texas,Tables,402,2,55
+379,20-04-2014,Patrick Ryan,California,Furnishings,60,4,21
+380,21-04-2014,Victoria Pisteka,California,Binders,17,5,44
+381,21-04-2014,Dennis Kane,Kentucky,Storage,829,6,36
+382,22-04-2014,Sam Zeldin,New York,Envelopes,248,8,33
+383,22-04-2014,Lisa Ryan,New York,Binders,10,3,47
+384,23-04-2014,Becky Martin,Pennsylvania,Binders,3,3,87
+385,23-04-2014,Lisa Hazard,Ohio,Chairs,281,2,21
+386,23-04-2014,Karen Carlisle,Ohio,Chairs,281,2,29
+387,23-04-2014,Stefania Perrino,Ohio,Binders,7,8,78
+388,23-04-2014,Marc Crier,Ohio,Furnishings,22,4,62
+389,23-04-2014,Kean Takahito,California,Paper,49,1,91
+390,25-04-2014,Maribeth Schnelling,Texas,Paper,10,2,93
+391,25-04-2014,Rick Reed,Texas,Art,6,3,97
+392,25-04-2014,Logan Currie,North Carolina,Phones,302,3,38
+393,25-04-2014,Daniel Lacy,California,Furnishings,303,5,38
+394,25-04-2014,Chris Cortes,California,Appliances,271,3,74
+395,25-04-2014,Sandra Flanagan,California,Chairs,1487,5,21
+396,26-04-2014,Liz Willingham,California,Chairs,230,3,30
+397,26-04-2014,Brad Norvell,California,Binders,18,6,27
+398,26-04-2014,Pete Takahito,California,Art,21,5,28
+399,26-04-2014,Tom Ashbrook,California,Labels,13,2,24
+400,28-04-2014,Luke Weiss,Maryland,Binders,21,2,33
+401,28-04-2014,Erin Ashbrook,Maryland,Storage,498,9,74
+402,28-04-2014,Jessica Myrick,Maryland,Art,5,2,25
+403,28-04-2014,Odella Nelson,Maryland,Labels,3,1,85
+404,28-04-2014,Jennifer Braxton,Ohio,Labels,7,3,84
+405,28-04-2014,Astrea Jones,Ohio,Storage,27,3,39
+406,28-04-2014,John Castell,Ohio,Storage,178,2,30
+407,28-04-2014,Darrin Martin,California,Phones,1680,5,93
+408,28-04-2014,Monica Federle,New York,Accessories,160,2,76
+409,29-04-2014,Anthony Garverick,New York,Furnishings,17,2,57
+410,29-04-2014,Joseph Airdo,Louisiana,Chairs,52,2,27
+411,29-04-2014,Frank Atkinson,Louisiana,Binders,18,3,39
+412,29-04-2014,Mike Caudle,Tennessee,Chairs,562,2,86
+413,29-04-2014,Jim Kriz,Tennessee,Storage,100,5,75
+414,29-04-2014,Philip Fox,Delaware,Phones,20,2,28
+415,30-04-2014,Erica Smith,Mississippi,Accessories,48,3,62
+416,30-04-2014,Michelle Arnett,Kentucky,Art,175,5,45
+417,30-04-2014,Duane Noonan,Kentucky,Storage,826,5,63
+418,02-05-2014,Sarah Brown,Ohio,Appliances,26,3,28
+419,02-05-2014,Henry Goldwyn,Florida,Copiers,480,2,93
+420,03-05-2014,Jack Garza,Wisconsin,Labels,22,7,95
+421,03-05-2014,Larry Hughes,New York,Binders,40,3,68
+422,03-05-2014,Sara Luxemburg,New York,Binders,11,3,93
+423,04-05-2014,Vivek Grady,Michigan,Binders,47,4,98
+424,04-05-2014,Adam Shillingsburg,Connecticut,Furnishings,27,2,31
+425,04-05-2014,Thea Hudgings,Texas,Art,38,2,74
+426,04-05-2014,Julie Prescott,Texas,Fasteners,5,6,77
+427,04-05-2014,Thomas Thornton,Washington,Furnishings,12,7,84
+428,04-05-2014,Julia Dunbar,Washington,Appliances,58,4,90
+429,05-05-2014,Michelle Tran,Kentucky,Paper,9,3,89
+430,05-05-2014,Barry Franz,Kentucky,Art,7,2,63
+431,05-05-2014,Nicole Brennan,Kentucky,Paper,25,2,53
+432,05-05-2014,Christopher Schild,Texas,Chairs,128,3,41
+433,05-05-2014,Karen Ferguson,Illinois,Storage,45,2,96
+434,05-05-2014,Thea Hendricks,Virginia,Binders,12,2,32
+435,05-05-2014,George Zrebassa,Virginia,Paper,35,1,21
+436,06-05-2014,Keith Dawkins,California,Binders,141,8,85
+437,06-05-2014,Suzanne McNair,California,Labels,6,2,49
+438,06-05-2014,Lisa DeCherney,California,Art,108,6,25
+439,07-05-2014,Evan Bailliet,Massachusetts,Binders,16,3,40
+440,07-05-2014,Kelly Williams,Massachusetts,Tables,194,2,70
+441,07-05-2014,Doug Bickford,Massachusetts,Art,9,3,79
+442,07-05-2014,Dario Medina,Massachusetts,Chairs,872,4,90
+443,08-05-2014,Erin Smith,Pennsylvania,Copiers,1800,5,46
+444,09-05-2014,Beth Paige,California,Accessories,68,4,21
+445,09-05-2014,Allen Rosenblatt,California,Accessories,168,3,43
+446,09-05-2014,Denny Ordway,Kentucky,Storage,83,3,78
+447,09-05-2014,Russell D'Ascenzo,Kentucky,Labels,9,3,63
+448,09-05-2014,David Flashing,Kentucky,Labels,21,5,38
+449,09-05-2014,Joy Daniels,Kentucky,Paper,45,7,97
+450,10-05-2014,Brian Derr,Washington,Envelopes,158,3,72
+451,10-05-2014,Alice McCarthy,Washington,Phones,44,5,61
+452,10-05-2014,Tanja Norvell,Pennsylvania,Bookcases,350,7,84
+453,10-05-2014,Fred Chung,Pennsylvania,Art,22,5,66
+454,10-05-2014,Jill Fjeld,California,Paper,40,2,35
+455,10-05-2014,Helen Andreada,California,Phones,1432,5,93
+456,10-05-2014,Barry Pond,California,Supplies,41,6,38
+457,10-05-2014,Zuschuss Carroll,California,Chairs,257,1,66
+458,11-05-2014,Sibella Parks,Texas,Accessories,58,2,96
+459,11-05-2014,Jim Epp,Texas,Phones,101,1,80
+460,11-05-2014,Hunter Glantz,Texas,Furnishings,66,4,28
+461,11-05-2014,Toby Carlisle,Texas,Accessories,47,2,44
+462,11-05-2014,Anna Chung,New York,Appliances,36,3,39
+463,11-05-2014,Lynn Smith,Texas,Chairs,1213,8,49
+464,11-05-2014,Tracy Blumstein,Illinois,Paper,17,3,80
+465,11-05-2014,Alan Schoenberger,Illinois,Binders,105,9,26
+466,12-05-2014,Luke Schmidt,Wisconsin,Furnishings,35,7,57
+467,12-05-2014,Ivan Gibson,Massachusetts,Tables,700,3,43
+468,13-05-2014,Jeremy Farry,Utah,Storage,56,2,80
+469,13-05-2014,Rachel Payne,Florida,Fasteners,7,2,44
+470,13-05-2014,Eugene Hildebrand,Florida,Binders,398,8,89
+471,13-05-2014,Fred Hopkins,California,Accessories,150,3,87
+472,13-05-2014,Lindsay Shagiari,California,Chairs,279,6,60
+473,13-05-2014,Sylvia Foulston,California,Paper,8,2,86
+474,14-05-2014,Maureen Gastineau,Florida,Furnishings,311,2,39
+475,16-05-2014,Daniel Byrd,California,Chairs,233,5,91
+476,16-05-2014,Angele Hood,California,Accessories,56,3,79
+477,17-05-2014,Ross DeVincentis,Wisconsin,Binders,92,3,44
+478,18-05-2014,Todd Sumrall,Ohio,Phones,780,2,28
+479,18-05-2014,Bill Tyler,Ohio,Furnishings,149,3,90
+480,18-05-2014,Noah Childs,Ohio,Paper,16,4,42
+481,18-05-2014,Greg Guthrie,Texas,Paper,4,1,81
+482,19-05-2014,Anne McFarland,Michigan,Binders,57,9,96
+483,19-05-2014,Amy Cox,Virginia,Supplies,34,5,45
+484,20-05-2014,Nancy Lomonaco,New Hampshire,Appliances,33,4,33
+485,20-05-2014,Ken Heidel,New Hampshire,Art,39,9,26
+486,20-05-2014,Paul Lucas,New Hampshire,Furnishings,140,7,30
+487,20-05-2014,Deirdre Greer,Texas,Furnishings,10,3,86
+488,20-05-2014,Patrick O'Brill,Texas,Paper,10,2,66
+489,20-05-2014,Julie Kriz,Texas,Accessories,21,2,84
+490,20-05-2014,Shahid Hopkins,Texas,Storage,67,5,42
+491,21-05-2014,Steven Ward,Virginia,Binders,2716,7,66
+492,21-05-2014,Denise Monton,Virginia,Phones,618,3,78
+493,21-05-2014,Tracy Collins,California,Art,32,8,21
+494,21-05-2014,MaryBeth Skach,Massachusetts,Binders,448,7,95
+495,21-05-2014,William Brown,Massachusetts,Paper,18,3,21
+496,21-05-2014,Tiffany House,Massachusetts,Appliances,246,6,59
+497,21-05-2014,Maribeth Dona,Texas,Envelopes,56,6,60
+498,21-05-2014,Barry Gonzalez,Texas,Chairs,108,2,81
+499,21-05-2014,Tamara Chand,Texas,Paper,5,1,49
+500,21-05-2014,Benjamin Farhat,Texas,Binders,18,3,36
+501,22-05-2014,Pete Kriz,Alabama,Phones,136,2,57
+502,22-05-2014,Tracy Zic,Alabama,Phones,45,1,22
+503,23-05-2014,Karen Daniels,Pennsylvania,Binders,3,2,33
+504,23-05-2014,Roy Französisch,Pennsylvania,Art,21,9,62
+505,23-05-2014,Darren Budd,Pennsylvania,Phones,55,2,56
+506,23-05-2014,Maris LaWare,Washington,Paper,13,2,36
+507,23-05-2014,Jeremy Lonsdale,New York,Binders,18,5,93
+508,23-05-2014,Candace McMahon,New York,Supplies,5,2,20
+509,23-05-2014,Robert Marley,New York,Appliances,208,1,31
+510,24-05-2014,Jamie Frazer,Maryland,Paper,116,3,28
+511,25-05-2014,Peter Bühler,Illinois,Appliances,76,2,35
+512,25-05-2014,Rick Huthwaite,Illinois,Furnishings,29,2,85
+513,25-05-2014,Adam Hart,New York,Paper,15,2,98
+514,26-05-2014,Alan Barnes,California,Bookcases,291,2,87
+515,26-05-2014,Justin Deggeller,California,Phones,202,2,56
+516,26-05-2014,Yoseph Carroll,California,Phones,84,2,60
+517,26-05-2014,Randy Bradley,California,Chairs,225,2,60
+518,26-05-2014,Pierre Wener,Utah,Paper,48,5,62
+519,26-05-2014,Ann Blume,Illinois,Storage,103,3,28
+520,26-05-2014,Joe Kamberova,Illinois,Chairs,360,2,81
+521,26-05-2014,Julie Creighton,Illinois,Art,13,3,59
+522,27-05-2014,Michael Kennedy,California,Tables,567,10,56
+523,27-05-2014,John Murray,California,Storage,359,4,97
+524,27-05-2014,Georgia Rosenberg,California,Phones,1114,12,91
+525,27-05-2014,Dennis Bolton,California,Accessories,100,1,60
+526,27-05-2014,Alan Dominguez,Illinois,Binders,17,6,24
+527,28-05-2014,Dave Hallsten,Washington,Phones,57,6,32
+528,28-05-2014,Jason Klamczynski,Washington,Accessories,28,4,56
+529,28-05-2014,Steve Carroll,Washington,Binders,137,4,93
+530,30-05-2014,Tony Chapman,Virginia,Paper,14,3,88
+531,30-05-2014,Susan Pistek,Illinois,Tables,355,3,67
+532,30-05-2014,Saphhira Shifley,New York,Binders,70,4,75
+533,30-05-2014,Phillip Breyer,New York,Binders,26,2,22
+534,30-05-2014,Sally Matthias,New York,Phones,464,5,31
+535,30-05-2014,Nathan Gelder,New York,Appliances,236,3,80
+536,30-05-2014,Harold Ryan,New York,Paper,40,4,82
+537,30-05-2014,Darren Koutras,Illinois,Copiers,720,3,47
+538,31-05-2014,Nat Gilpin,Mississippi,Phones,660,3,61
+539,31-05-2014,Alyssa Tate,Mississippi,Phones,114,3,24
+540,01-06-2014,Andy Reiter,Minnesota,Chairs,2002,7,77
+541,01-06-2014,Bart Folk,Minnesota,Storage,167,2,34
+542,01-06-2014,Mary O'Rourke,Minnesota,Paper,48,6,96
+543,01-06-2014,Brian Thompson,Minnesota,Appliances,1503,5,52
+544,01-06-2014,Matthew Clasen,Minnesota,Paper,26,4,54
+545,01-06-2014,Bill Stewart,New Jersey,Binders,45,3,41
+546,01-06-2014,Alan Hwang,New Jersey,Art,289,6,44
+547,01-06-2014,Toby Ritter,Arkansas,Furnishings,22,6,55
+548,01-06-2014,David Philippe,Arkansas,Phones,882,7,97
+549,01-06-2014,Michael Dominguez,Michigan,Binders,139,4,57
+550,01-06-2014,Katherine Nockton,Michigan,Appliances,66,5,23
+551,02-06-2014,Matt Collins,Utah,Binders,60,3,41
+552,02-06-2014,Elizabeth Moffitt,Utah,Furnishings,73,6,65
+553,02-06-2014,Cathy Prescott,Georgia,Art,9,2,27
+554,02-06-2014,David Kendrick,Georgia,Phones,240,3,52
+555,02-06-2014,Roy Collins,Georgia,Storage,357,2,77
+556,03-06-2014,Nona Balk,Washington,Tables,516,6,54
+557,03-06-2014,Rob Lucas,Michigan,Envelopes,15,2,30
+558,03-06-2014,Joni Blumstein,Illinois,Labels,16,4,59
+559,03-06-2014,Frank Preis,Illinois,Furnishings,62,7,80
+560,03-06-2014,Thomas Boland,Illinois,Storage,133,3,81
+561,04-06-2014,Tim Brockman,Ohio,Paper,16,2,41
+562,04-06-2014,Denny Joy,New York,Furnishings,57,2,41
+563,04-06-2014,Sally Hughsby,New York,Appliances,16,4,53
+564,04-06-2014,Craig Yedwab,New York,Bookcases,354,2,68
+565,04-06-2014,Logan Haushalter,New York,Furnishings,14,2,26
+566,06-06-2014,Ralph Arnett,New York,Art,13,2,62
+567,06-06-2014,Kimberly Carter,New York,Binders,150,9,54
+568,06-06-2014,Sung Shariari,New York,Supplies,17,2,21
+569,06-06-2014,Cari Sayre,New York,Tables,992,3,77
+570,06-06-2014,Sung Pak,Illinois,Binders,25,3,87
+571,06-06-2014,Chad Cunningham,Illinois,Envelopes,14,2,79
+572,06-06-2014,Steve Chapman,Texas,Labels,100,10,49
+573,06-06-2014,Stefanie Holloman,Florida,Binders,1,1,97
+574,06-06-2014,Sean Christensen,Florida,Paper,62,2,70
+575,07-06-2014,Erin Creighton,Illinois,Binders,12,3,88
+576,07-06-2014,Mike Kennedy,Illinois,Tables,269,3,24
+577,08-06-2014,Irene Maddox,Washington,Chairs,586,3,22
+578,08-06-2014,Penelope Sewall,Tennessee,Chairs,170,3,72
+579,08-06-2014,Tony Sayre,New York,Binders,68,2,74
+580,08-06-2014,Adrian Barton,New York,Storage,1677,6,71
+581,09-06-2014,Khloe Miller,California,Furnishings,49,7,79
+582,09-06-2014,Tamara Willingham,California,Art,7,4,42
+583,09-06-2014,Sarah Foster,California,Phones,907,6,91
+584,09-06-2014,Craig Carreira,California,Binders,19,3,78
+585,09-06-2014,Clytie Kelty,California,Appliances,115,5,55
+586,09-06-2014,Maureen Gnade,California,Tables,1706,9,66
+587,09-06-2014,Thomas Brumley,California,Phones,911,4,68
+588,09-06-2014,Debra Catini,Texas,Phones,8,1,76
+589,09-06-2014,Michael Granlund,Texas,Accessories,64,2,68
+590,09-06-2014,Ricardo Emerson,Texas,Art,70,2,36
+591,09-06-2014,Ken Brennan,California,Supplies,7,2,24
+592,09-06-2014,Maureen Fritzler,California,Art,23,2,91
+593,09-06-2014,Alex Russell,Virginia,Tables,1441,7,44
+594,09-06-2014,Pamela Coakley,Nevada,Art,18,7,20
+595,09-06-2014,James Lanier,Nevada,Paper,79,3,80
+596,09-06-2014,Claudia Bergmann,Nevada,Furnishings,37,2,37
+597,10-06-2014,Amy Hunt,Michigan,Labels,492,5,76
+598,13-06-2014,Andrew Gjertsen,California,Art,15,3,56
+599,14-06-2014,Yana Sorensen,Michigan,Bookcases,213,3,63
+600,15-06-2014,Cindy Schnelling,Texas,Tables,100,2,87
+601,15-06-2014,Karen Seio,Texas,Chairs,798,4,73
+602,15-06-2014,Cyra Reiten,Texas,Binders,9,3,85
+603,15-06-2014,Rick Wilson,Texas,Paper,37,2,65
+604,16-06-2014,Trudy Schmidt,Indiana,Chairs,648,8,84
+605,16-06-2014,Lori Olson,New York,Envelopes,41,5,56
+606,16-06-2014,Sarah Jordon,New York,Art,35,4,51
+607,16-06-2014,Guy Thornton,New York,Binders,40,3,89
+608,17-06-2014,Lindsay Castell,Delaware,Machines,66,3,68
+609,17-06-2014,Nora Paige,Washington,Furnishings,6,3,92
+610,17-06-2014,Tracy Poddar,Washington,Fasteners,18,5,94
+611,17-06-2014,Dave Kipp,Washington,Binders,3266,3,74
+612,17-06-2014,Alan Haines,Illinois,Paper,62,2,24
+613,18-06-2014,Jennifer Jackson,California,Phones,140,5,38
+614,20-06-2014,Dana Kaydos,Texas,Phones,202,2,59
+615,20-06-2014,Toby Gnade,Texas,Binders,3,4,30
+616,20-06-2014,Edward Becker,Texas,Bookcases,193,4,60
+617,20-06-2014,Christopher Martinez,Texas,Paper,16,3,61
+618,20-06-2014,Jeremy Ellison,Texas,Paper,12,2,41
+619,20-06-2014,Jesus Ocampo,Texas,Machines,419,2,43
+620,20-06-2014,Corinna Mitchell,Texas,Storage,509,7,38
+621,20-06-2014,Bart Watters,Oklahoma,Appliances,472,6,24
+622,20-06-2014,Julia West,Oklahoma,Art,4,2,61
+623,21-06-2014,Dean Braden,Virginia,Furnishings,104,1,40
+624,21-06-2014,Fred Wasserman,Virginia,Phones,285,1,58
+625,21-06-2014,Ben Peterman,Virginia,Storage,37,3,54
+626,21-06-2014,Benjamin Venier,New Jersey,Phones,1323,7,53
+627,21-06-2014,Chad McGuire,New Jersey,Art,4,2,42
+628,21-06-2014,Michael Oakman,Connecticut,Art,21,5,36
+629,21-06-2014,John Dryer,Colorado,Binders,11,7,25
+630,21-06-2014,Robert Dilbeck,Colorado,Binders,25,2,66
+631,21-06-2014,Anthony Witt,Pennsylvania,Envelopes,25,4,84
+632,21-06-2014,Heather Jas,Pennsylvania,Furnishings,4,1,72
+633,21-06-2014,Eugene Barchas,Pennsylvania,Accessories,96,4,53
+634,21-06-2014,Theone Pippenger,Pennsylvania,Machines,207,3,43
+635,21-06-2014,Michael Paige,Pennsylvania,Appliances,44,2,77
+636,21-06-2014,Olvera Toch,Pennsylvania,Binders,9,2,66
+637,21-06-2014,Juliana Krohn,New York,Paper,20,3,30
+638,21-06-2014,Linda Southworth,New York,Phones,618,3,30
+639,21-06-2014,Jane Waco,New York,Appliances,60,3,43
+640,21-06-2014,David Bremer,New York,Phones,1215,3,65
+641,22-06-2014,Julia Barnett,Colorado,Accessories,197,6,47
+642,22-06-2014,Lena Cacioppo,Minnesota,Storage,502,3,81
+643,22-06-2014,Stuart Van,Minnesota,Storage,162,3,88
+644,22-06-2014,Anna Gayman,Pennsylvania,Chairs,170,3,32
+645,22-06-2014,Rose O'Brian,Pennsylvania,Phones,83,3,21
+646,22-06-2014,Justin Hirsh,Pennsylvania,Chairs,854,5,89
+647,22-06-2014,Neil Knudson,Arizona,Binders,8,3,77
+648,23-06-2014,Edward Nazzal,Pennsylvania,Accessories,86,3,66
+649,23-06-2014,Brendan Dodson,North Carolina,Art,20,9,88
+650,23-06-2014,Bill Donatelli,North Carolina,Supplies,3,1,20
+651,24-06-2014,Muhammed Lee,Arizona,Furnishings,4,2,46
+652,25-06-2014,Catherine Glotzbach,California,Tables,448,5,72
+653,25-06-2014,Becky Pak,Oregon,Phones,264,5,52
+654,25-06-2014,Brenda Bowman,Oregon,Art,72,11,29
+655,25-06-2014,Eleni McCrary,Oregon,Art,9,1,88
+656,27-06-2014,Max Jones,Mississippi,Storage,306,5,52
+657,27-06-2014,Giulietta Baptist,Mississippi,Tables,86,1,66
+658,27-06-2014,Jonathan Howell,Mississippi,Accessories,224,4,36
+659,28-06-2014,Frank Carlisle,Pennsylvania,Paper,41,8,55
+660,28-06-2014,Skye Norling,Pennsylvania,Binders,3,3,29
+661,28-06-2014,Stewart Carmichael,Pennsylvania,Chairs,1228,5,26
+662,28-06-2014,Shaun Weien,Pennsylvania,Binders,31,3,23
+663,28-06-2014,Cathy Hwang,Pennsylvania,Paper,336,4,36
+664,28-06-2014,Rob Haberlin,Michigan,Fasteners,6,1,80
+665,29-06-2014,Bruce Degenhardt,Ohio,Art,33,7,27
+666,29-06-2014,Victor Preis,New York,Binders,14,3,62
+667,30-06-2014,Kalyca Meade,New York,Binders,335,7,79
+668,30-06-2014,Fred McMath,Illinois,Art,5,4,86
+669,30-06-2014,Victoria Brennan,California,Art,32,5,83
+670,30-06-2014,Thais Sissman,Texas,Paper,26,5,55
+671,30-06-2014,Ralph Kennedy,Texas,Fasteners,21,6,88
+672,30-06-2014,Brad Eason,New York,Binders,3,1,50
+673,30-06-2014,Parhena Norris,New York,Art,7,3,61
+674,30-06-2014,Eudokia Martin,North Carolina,Paper,311,7,78
+675,01-07-2014,Denny Blanton,Washington,Binders,20,5,65
+676,01-07-2014,Philisse Overcash,Florida,Phones,576,2,73
+677,01-07-2014,Tim Taslimi,Florida,Binders,5,6,98
+678,02-07-2014,Joni Wasserman,New Jersey,Phones,74,2,64
+679,02-07-2014,Shaun Chance,New Jersey,Art,6,1,67
+680,04-07-2014,Dave Poirier,Colorado,Paper,178,4,78
+681,04-07-2014,Roger Barcio,Colorado,Appliances,32,2,64
+682,04-07-2014,Fred Harton,Virginia,Paper,22,3,38
+683,04-07-2014,Katrina Willman,Virginia,Binders,16,5,40
+684,05-07-2014,Cathy Armstrong,Mississippi,Accessories,480,3,75
+685,05-07-2014,Chuck Clark,Mississippi,Labels,15,2,64
+686,05-07-2014,Neoma Murray,Mississippi,Paper,19,3,96
+687,05-07-2014,Bobby Odegard,Texas,Storage,221,3,97
+688,05-07-2014,Ken Dana,Texas,Storage,281,11,32
+689,05-07-2014,Brendan Murry,California,Binders,181,6,63
+690,05-07-2014,Ann Chong,Tennessee,Art,4,3,41
+691,05-07-2014,Meg O'Connel,Florida,Furnishings,20,2,92
+692,05-07-2014,Justin Ritter,Florida,Binders,10,5,83
+693,05-07-2014,Adam Bellavance,Florida,Furnishings,213,3,49
+694,06-07-2014,Charlotte Melton,New York,Copiers,560,1,41
+695,06-07-2014,Sanjit Jacobs,California,Chairs,478,2,58
+696,07-07-2014,Carlos Meador,Pennsylvania,Chairs,172,2,93
+697,07-07-2014,Dan Reichenbach,Pennsylvania,Furnishings,69,2,87
+698,08-07-2014,Bryan Spruell,New York,Chairs,64,1,54
+699,08-07-2014,Helen Wasserman,California,Tables,502,3,24
+700,08-07-2014,Eric Murdock,California,Binders,197,6,83
+701,09-07-2014,Henry MacAllister,Texas,Paper,10,2,82
+702,09-07-2014,Joel Jenkins,Texas,Paper,14,3,94
+703,09-07-2014,Gene Hale,California,Labels,3,1,34
+704,09-07-2014,Sean O'Donnell,California,Binders,42,6,91
+705,09-07-2014,Claire Gute,California,Storage,24,4,66
+706,09-07-2014,Jay Fein,California,Binders,14,6,96
+707,09-07-2014,Maribeth Yedwab,California,Bookcases,120,1,98
+708,09-07-2014,Sandra Glassco,California,Art,6,2,78
+709,09-07-2014,Kelly Collister,California,Paper,32,5,84
+710,11-07-2014,Emily Grady,New Jersey,Paper,177,5,96
+711,11-07-2014,Christy Brittain,New Jersey,Phones,198,3,67
+712,11-07-2014,Meg Tillman,New Jersey,Chairs,855,3,32
+713,11-07-2014,Doug O'Connell,New Jersey,Furnishings,124,9,62
+714,11-07-2014,Maria Zettner,New Jersey,Labels,14,5,80
+715,11-07-2014,Greg Hansen,Texas,Phones,576,4,46
+716,11-07-2014,Patrick Bzostek,Texas,Paper,10,2,68
+717,11-07-2014,Katrina Bavinger,New York,Paper,49,4,76
+718,11-07-2014,Tom Prescott,New York,Binders,18,5,38
+719,11-07-2014,Ritsa Hightower,New York,Phones,165,3,43
+720,12-07-2014,Matt Hagelstein,California,Binders,8,2,29
+721,12-07-2014,Stephanie Ulpright,California,Tables,698,3,86
+722,12-07-2014,Art Ferguson,California,Storage,250,9,79
+723,12-07-2014,Tonja Turnell,California,Phones,256,8,32
+724,12-07-2014,Stuart Calhoun,Washington,Chairs,123,4,56
+725,12-07-2014,Doug Jacobs,Washington,Binders,11,4,85
+726,12-07-2014,Peter McVee,Illinois,Paper,36,9,68
+727,12-07-2014,Evan Minnotte,Illinois,Accessories,24,4,91
+728,12-07-2014,Elpida Rittenbach,Texas,Chairs,512,3,97
+729,12-07-2014,Jim Radford,Texas,Fasteners,3,2,48
+730,12-07-2014,Dionis Lloyd,Texas,Art,22,7,77
+731,12-07-2014,Brad Thomas,Texas,Paper,16,3,72
+732,13-07-2014,Bill Overfelt,California,Tables,351,3,35
+733,14-07-2014,Erica Bern,Illinois,Binders,30,7,56
+734,14-07-2014,Joy Bell-,Illinois,Phones,38,4,73
+735,14-07-2014,Bill Eplett,Arizona,Storage,56,5,72
+736,14-07-2014,Todd Boyes,Pennsylvania,Phones,13,1,87
+737,14-07-2014,Harold Engle,Pennsylvania,Phones,24,2,65
+738,14-07-2014,Bobby Elias,Pennsylvania,Furnishings,32,2,99
+739,14-07-2014,Don Weiss,Pennsylvania,Art,42,2,96
+740,14-07-2014,Jason Gross,Delaware,Appliances,39,1,84
+741,14-07-2014,Caroline Jumper,New York,Art,18,3,49
+742,15-07-2014,Bryan Davis,South Dakota,Accessories,3,3,71
+743,15-07-2014,Henia Zydlo,South Dakota,Fasteners,7,3,95
+744,18-07-2014,Susan Vittorini,Arizona,Chairs,259,4,69
+745,18-07-2014,Janet Martin,New York,Binders,14,2,66
+746,19-07-2014,Raymond Buch,Connecticut,Phones,360,2,65
+747,19-07-2014,Sean Wendt,Connecticut,Tables,71,1,31
+748,19-07-2014,Jill Matthias,Connecticut,Binders,21,2,34
+749,19-07-2014,Clay Rozendal,Connecticut,Binders,4,1,49
+750,19-07-2014,Ed Ludwig,Montana,Binders,6,2,79
+751,20-07-2014,Craig Leslie,Texas,Storage,343,3,45
+752,20-07-2014,Rob Beeghly,Texas,Furnishings,17,5,66
+753,20-07-2014,Chris McAfee,Texas,Chairs,981,2,54
+754,20-07-2014,Susan MacKendrick,Ohio,Storage,26,1,78
+755,20-07-2014,Lindsay Williams,Ohio,Binders,27,3,52
+756,20-07-2014,Cynthia Voltz,California,Paper,105,1,35
+757,20-07-2014,Alejandro Savely,California,Binders,9,2,22
+758,20-07-2014,Christopher Conant,California,Paper,20,4,41
+759,20-07-2014,Robert Waldorf,California,Furnishings,43,3,70
+760,20-07-2014,Scot Coram,California,Binders,90,6,74
+761,20-07-2014,Liz Preis,California,Paper,23,3,81
+762,20-07-2014,Roy Skaria,California,Accessories,42,2,83
+763,20-07-2014,Darrin Van Huff,California,Paper,12,2,97
+764,20-07-2014,Jim Sink,California,Art,13,4,95
+765,20-07-2014,Ted Butterfield,California,Storage,535,3,37
+766,21-07-2014,Lela Donovan,California,Art,99,5,22
+767,21-07-2014,Phillip Flathmann,California,Chairs,802,2,44
+768,21-07-2014,Anemone Ratner,California,Tables,273,1,77
+769,21-07-2014,Larry Blacks,Texas,Appliances,5,3,80
+770,21-07-2014,Alex Grayson,Texas,Envelopes,88,5,94
+771,21-07-2014,Max Ludwig,Texas,Chairs,658,5,40
+772,21-07-2014,Anthony O'Donnell,Texas,Binders,1,1,96
+773,21-07-2014,Mick Hernandez,Nebraska,Phones,36,2,32
+774,22-07-2014,Charles McCrossin,New York,Art,6,2,77
+775,22-07-2014,Sung Chung,New York,Accessories,160,2,91
+776,22-07-2014,Adrian Shami,California,Art,12,4,49
+777,22-07-2014,Ralph Ritter,California,Chairs,718,3,49
+778,22-07-2014,Neola Schneider,California,Storage,237,10,86
+779,22-07-2014,Carol Darley,California,Tables,170,3,60
+780,22-07-2014,Sally Knutson,California,Art,20,6,97
+781,22-07-2014,Justin Ellison,Texas,Storage,27,1,94
+782,23-07-2014,Carl Jackson,Arizona,Binders,8,5,84
+783,23-07-2014,Roland Murray,Arizona,Accessories,1024,8,53
+784,23-07-2014,Michelle Lonsdale,Arizona,Art,9,1,33
+785,23-07-2014,Tony Molinari,Arizona,Accessories,479,10,91
+786,23-07-2014,Mitch Gastineau,New York,Accessories,100,2,23
+787,23-07-2014,Clay Cheatham,California,Phones,605,6,31
+788,23-07-2014,Chuck Sachs,California,Supplies,41,5,93
+789,23-07-2014,Jenna Caffey,California,Phones,302,3,56
+790,23-07-2014,Theresa Coyne,California,Accessories,45,3,36
+791,25-07-2014,Patricia Hirasaki,California,Storage,54,4,25
+792,25-07-2014,Jocasta Rupert,California,Supplies,8188,5,33
+793,25-07-2014,Christina DeMoss,California,Furnishings,78,8,73
+794,25-07-2014,,California,Paper,6,1,25
+795,25-07-2014,,California,Supplies,16,4,45
+796,26-07-2014,,Illinois,Storage,124,3,77
+797,26-07-2014,,Nevada,Phones,912,2,27
+798,26-07-2014,,Nevada,Chairs,674,3,83
+799,26-07-2014,,Nevada,Furnishings,134,9,57
+800,26-07-2014,,Nevada,Accessories,171,3,51
+801,26-07-2014,,Utah,Accessories,112,7,93
+802,26-07-2014,,Georgia,Chairs,68,2,76
+803,26-07-2014,,Georgia,Labels,163,13,38
+804,26-07-2014,,Georgia,Furnishings,26,3,47
+805,26-07-2014,,Texas,Binders,2178,8,83
+806,26-07-2014,,Texas,Furnishings,18,3,57
+807,26-07-2014,,Texas,Binders,17,4,25
+808,26-07-2014,,Texas,Accessories,431,9,70
+809,26-07-2014,,Texas,Binders,9,5,74
+810,26-07-2014,,Texas,Appliances,5,2,47
+811,27-07-2014,,California,Accessories,238,2,67
+812,27-07-2014,,New York,Paper,66,11,29
+813,27-07-2014,,California,Storage,276,2,20
+814,28-07-2014,,Florida,Fasteners,14,5,50
+815,28-07-2014,,Florida,Furnishings,130,6,80
+816,28-07-2014,,Florida,Envelopes,49,7,40
+817,30-07-2014,,Washington,Bookcases,1368,8,72
+818,01-08-2014,,North Carolina,Labels,18,3,45
+819,01-08-2014,,North Carolina,Furnishings,44,4,48
+820,01-08-2014,,North Carolina,Appliances,63,1,90
+821,01-08-2014,,North Carolina,Paper,78,2,54
+822,01-08-2014,,California,Binders,20,3,70
+823,01-08-2014,,Pennsylvania,Fasteners,6,2,84
+824,02-08-2014,,Missouri,Binders,27,5,37
+825,02-08-2014,,Missouri,Accessories,21,2,41
+826,02-08-2014,,Missouri,Storage,838,2,34
+827,03-08-2014,,Colorado,Tables,219,2,34
+828,03-08-2014,,Colorado,Appliances,3,1,89
+829,03-08-2014,,New York,Paper,40,2,53
+830,03-08-2014,,New York,Supplies,102,10,88
+831,03-08-2014,,New York,Storage,21,2,39
+832,03-08-2014,,Arizona,Paper,93,3,39
+833,04-08-2014,,Utah,Appliances,1090,3,47
+834,04-08-2014,,Utah,Paper,448,8,34
+835,04-08-2014,,Utah,Art,16,5,64
+836,04-08-2014,,Utah,Phones,400,5,86
+837,04-08-2014,,Utah,Storage,159,5,41
+838,04-08-2014,,Utah,Binders,13,1,88
+839,04-08-2014,,Maine,Appliances,102,2,58
+840,04-08-2014,,Maine,Paper,260,13,83
+841,04-08-2014,,Maine,Accessories,255,9,23
+842,05-08-2014,,California,Paper,21,3,68
+843,05-08-2014,,California,Paper,111,2,63
+844,05-08-2014,,California,Chairs,340,7,36
+845,05-08-2014,,California,Accessories,16,1,93
+846,05-08-2014,,California,Storage,16,2,41
+847,05-08-2014,,California,Art,46,2,50
+848,05-08-2014,,Connecticut,Appliances,79,3,84
+849,05-08-2014,,Connecticut,Art,5,2,45
+850,05-08-2014,,Connecticut,Chairs,1133,5,46
+851,05-08-2014,,New York,Phones,136,1,55
+852,05-08-2014,,New York,Art,16,7,76
+853,05-08-2014,,Texas,Tables,489,2,76
+854,06-08-2014,,South Carolina,Accessories,63,3,42
+855,06-08-2014,,New York,Accessories,200,2,65
+856,08-08-2014,,California,Appliances,76,2,29
+857,08-08-2014,,California,Copiers,1200,3,53
+858,08-08-2014,,California,Phones,446,5,74
+859,08-08-2014,,California,Furnishings,328,8,37
+860,08-08-2014,,Arizona,Furnishings,121,4,76
+861,08-08-2014,,Arizona,Accessories,96,3,78
+862,08-08-2014,,California,Storage,423,11,79
+863,08-08-2014,,Michigan,Copiers,550,1,73
+864,08-08-2014,,Michigan,Appliances,168,3,82
+865,08-08-2014,,Michigan,Envelopes,38,3,50
+866,08-08-2014,,Michigan,Furnishings,54,6,30
+867,08-08-2014,,Michigan,Phones,300,2,28
+868,08-08-2014,,Florida,Bookcases,155,4,99
+869,09-08-2014,,Florida,Phones,178,2,21
+870,09-08-2014,,Florida,Paper,16,3,70
+871,09-08-2014,,California,Labels,21,8,35
+872,09-08-2014,,Washington,Phones,1091,4,67
+873,09-08-2014,,Washington,Phones,219,2,55
+874,09-08-2014,,Washington,Binders,2061,7,47
+875,09-08-2014,,California,Paper,6,1,99
+876,09-08-2014,,Arizona,Fasteners,4,3,84
+877,09-08-2014,,Arizona,Binders,9,5,76
+878,11-08-2014,,Washington,Furnishings,12,1,25
+879,11-08-2014,,Washington,Art,41,1,70
+880,11-08-2014,,Washington,Fasteners,23,2,58
+881,11-08-2014,,New York,Storage,375,1,72
+882,12-08-2014,,New Jersey,Binders,196,7,80
+883,12-08-2014,,California,Phones,806,8,20
+884,12-08-2014,,California,Furnishings,85,3,77
+885,12-08-2014,,Florida,Paper,31,6,87
+886,12-08-2014,,Florida,Art,48,5,89
+887,12-08-2014,,Florida,Accessories,159,7,38
+888,12-08-2014,,Florida,Appliances,211,6,68
+889,12-08-2014,,Florida,Supplies,6,2,66
+890,12-08-2014,,Florida,Labels,3,1,85
+891,12-08-2014,,Georgia,Binders,14,3,74
+892,12-08-2014,,Georgia,Accessories,273,13,62
+893,15-08-2014,,Texas,Binders,31,8,71
+894,15-08-2014,,Connecticut,Binders,63,3,62
+895,15-08-2014,,Florida,Paper,91,5,39
+896,15-08-2014,,Florida,Appliances,152,5,64
+897,15-08-2014,,California,Appliances,153,3,29
+898,15-08-2014,,California,Paper,93,3,62
+899,15-08-2014,,California,Binders,18,4,42
+900,15-08-2014,,California,Binders,46,3,94
+901,15-08-2014,,California,Chairs,195,4,29
+902,16-08-2014,,Pennsylvania,Tables,853,6,39
+903,17-08-2014,,Texas,Paper,16,3,54
+904,17-08-2014,,Arkansas,Paper,114,5,70
+905,17-08-2014,,Arkansas,Binders,18,4,33
+906,17-08-2014,,Arkansas,Fasteners,13,7,46
+907,17-08-2014,,Arkansas,Accessories,340,4,60
+908,19-08-2014,,Ohio,Art,11,2,90
+909,19-08-2014,,Ohio,Binders,77,4,65
+910,19-08-2014,,Ohio,Supplies,9,2,49
+911,19-08-2014,,Arkansas,Bookcases,639,9,95
+912,19-08-2014,,California,Furnishings,289,7,22
+913,19-08-2014,,California,Binders,69,2,91
+914,19-08-2014,,Georgia,Storage,345,3,34
+915,20-08-2014,,Illinois,Chairs,421,2,30
+916,20-08-2014,,Virginia,Chairs,500,13,91
+917,20-08-2014,,Virginia,Paper,20,2,93
+918,20-08-2014,,Virginia,Binders,897,1,57
+919,22-08-2014,,Ohio,Art,4,1,34
+920,22-08-2014,,Florida,Supplies,8,3,80
+921,22-08-2014,,Missouri,Paper,12,2,63
+922,23-08-2014,,New York,Paper,26,4,24
+923,23-08-2014,,New York,Paper,46,4,65
+924,23-08-2014,,California,Binders,50,2,78
+925,23-08-2014,,Colorado,Paper,16,3,63
+926,23-08-2014,,Colorado,Supplies,7,1,49
+927,23-08-2014,,Colorado,Furnishings,4,3,71
+928,23-08-2014,,Colorado,Phones,144,9,91
+929,23-08-2014,,Colorado,Paper,31,6,91
+930,23-08-2014,,Colorado,Paper,223,9,81
+931,23-08-2014,,Michigan,Paper,19,3,69
+932,24-08-2014,,Montana,Binders,8,2,81
+933,24-08-2014,,New York,Furnishings,13,2,89
+934,24-08-2014,,New York,Binders,13,3,93
+935,24-08-2014,,Kentucky,Supplies,26,3,60
+936,25-08-2014,,Ohio,Fasteners,40,14,36
+937,25-08-2014,,Ohio,Envelopes,5,2,24
+938,25-08-2014,,Ohio,Paper,24,3,76
+939,25-08-2014,,Ohio,Envelopes,130,6,93
+940,25-08-2014,,California,Furnishings,6,1,76
+941,25-08-2014,,California,Accessories,95,5,26
+942,25-08-2014,,California,Paper,26,4,91
+943,25-08-2014,,California,Storage,49,4,92
+944,25-08-2014,,Washington,Phones,1008,7,54
+945,25-08-2014,,Texas,Binders,26,3,40
+946,25-08-2014,,Texas,Binders,12,3,30
+947,25-08-2014,,Ohio,Binders,7,4,39
+948,25-08-2014,,Ohio,Binders,3,3,89
+949,25-08-2014,,Ohio,Binders,21,8,87
+950,26-08-2014,,California,Accessories,177,8,30
+951,26-08-2014,,Delaware,Furnishings,11,4,99
+952,26-08-2014,,Delaware,Paper,17,3,73
+953,26-08-2014,,Delaware,Paper,3,1,36
+954,26-08-2014,,Delaware,Art,9,3,31
+955,26-08-2014,,Delaware,Accessories,150,3,55
+956,27-08-2014,,California,Art,9,2,23
+957,27-08-2014,,California,Phones,213,3,76
+958,27-08-2014,,California,Binders,23,4,78
+959,27-08-2014,,Virginia,Phones,580,5,38
+960,27-08-2014,,Virginia,Furnishings,29,4,32
+961,27-08-2014,,Virginia,Tables,1203,3,33
+962,27-08-2014,,Virginia,Paper,13,2,91
+963,29-08-2014,,California,Paper,110,2,78
+964,29-08-2014,,California,Paper,13,2,86
+965,29-08-2014,,Florida,Envelopes,30,2,35
+966,29-08-2014,,Florida,Binders,505,4,63
+967,29-08-2014,,Florida,Tables,174,3,48
+968,30-08-2014,,Connecticut,Binders,25,5,78
+969,30-08-2014,,Connecticut,Storage,96,3,69
+970,31-08-2014,,New Mexico,Accessories,93,9,51
+971,01-09-2014,,California,Art,54,3,91
+972,01-09-2014,,Texas,Binders,4,3,57
+973,01-09-2014,,Texas,Paper,31,6,64
+974,01-09-2014,,New York,Binders,24,2,65
+975,01-09-2014,,New York,Accessories,357,3,55
+976,02-09-2014,,New York,Appliances,20,1,44
+977,02-09-2014,,New York,Furnishings,71,1,59
+978,02-09-2014,,New York,Art,21,3,95
+979,02-09-2014,,New York,Art,58,5,71
+980,02-09-2014,,New York,Paper,15,3,45
+981,02-09-2014,,Illinois,Accessories,240,3,44
+982,02-09-2014,,Texas,Machines,560,3,38
+983,02-09-2014,,Arkansas,Binders,1794,2,66
+984,02-09-2014,,Illinois,Accessories,476,7,46
+985,03-09-2014,,New York,Labels,14,5,76
+986,03-09-2014,,Texas,Binders,8,5,57
+987,05-09-2014,,Ohio,Storage,264,2,76
+988,05-09-2014,,Florida,Furnishings,32,2,86
+989,06-09-2014,,California,Furnishings,42,6,28
+990,06-09-2014,,California,Labels,58,8,30
+991,07-09-2014,,Pennsylvania,Storage,65,1,87
+992,07-09-2014,,Pennsylvania,Phones,32,3,20
+993,07-09-2014,,Pennsylvania,Furnishings,42,2,76
+994,07-09-2014,,Pennsylvania,Machines,400,4,34
+995,07-09-2014,,Oklahoma,Furnishings,58,3,64
+996,07-09-2014,,Oklahoma,Binders,43,3,46
+997,07-09-2014,,Oklahoma,Paper,13,2,59
+998,07-09-2014,,Oklahoma,Furnishings,822,6,45
+999,07-09-2014,,Oklahoma,Phones,105,3,51
+1000,07-09-2014,,New York,Phones,378,3,44
